@@ -5,7 +5,7 @@ const log = require("./function/log.js");
 var originalconfig = {
     botname: "JABD",
     admin: "",
-    prefix: "/",
+    prefix: "?",
     logEvent: false,
     seflListen: false,
     spotify : {
